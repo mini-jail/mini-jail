@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/app.css"],
+  "sourcesContent": ["* {\n  padding: 0;\n  margin: 0;\n  word-break: break-all;\n}\n\nhtml {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  overflow: hidden;\n}\n\nbody {\n  width: inherit;\n  height: inherit;\n  overflow: auto;\n}\n\n@media (max-width: 641px) {\n}\n"],
+  "mappings": "AAAA,qBAGE,qBAGF,KACE,kBACA,MACA,OACA,WACA,YACA,gBAGF,KACE,cACA,eACA",
+  "names": []
+}
